@@ -1,7 +1,7 @@
 # hw1
 
 ## About me
-### Personal iformation
+### Personal information
 My name is *Polina Kuznetsova*. I am *eighteen* years old. I was born in ~~Saint Petersburg~~ *Moscow*. I study at **Higher School of Economics**. I learn 3 foreign languages:
 * English
 * French
